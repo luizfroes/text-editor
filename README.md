@@ -22,7 +22,7 @@ The Text editor is an application that runs in the browser. The app will is a si
 
 ## User Story
 
-![screenshot](./assets/images/text-editor-screenshot.png)
+![screenshot](./images/text-editor-screenshot.png)
 
 <a name="user-story"></a>
 
