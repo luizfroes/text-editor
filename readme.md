@@ -1,8 +1,8 @@
 # PWA - Text Editor
 
-#### Check the deployed app [here](https://morning-thicket-81501.herokuapp.com/)
+#### Check the deployed app [here]( https://morning-thicket-81501.herokuapp.com/)
 
-![screenshot](./assets/img/text-screenshot.png)
+![screenshot](./img/text-screenshot.png)
 
 ## Table of Contents
 
