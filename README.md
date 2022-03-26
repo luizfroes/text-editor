@@ -2,7 +2,7 @@
 
 #### Check the deployed app [here](https://morning-thicket-81501.herokuapp.com/)
 
-![screenshot](./assets/img/text-screenshot.png)
+![screenshot](./assets/images/text-editor-screenshot.png)
 
 ## Table of Contents
 
